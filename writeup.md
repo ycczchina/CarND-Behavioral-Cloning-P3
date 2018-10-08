@@ -129,9 +129,7 @@ I used this training data for training the model. The validation set helped dete
 And following is the generated video:
 
 ```
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=TNRbon5s5NI
-" target="_blank"><img src="http://img.youtube.com/vi/TNRbon5s5NI/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[![Watch the video](./examples/center_2018_10_03_00_02_17_230.jpg)](http://youtu.be/https://youtu.be/TNRbon5s5NI)
 ```
 
 ```
