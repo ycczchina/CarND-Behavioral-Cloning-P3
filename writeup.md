@@ -129,7 +129,7 @@ I used this training data for training the model. The validation set helped dete
 And following is the generated video:
 
 ```
-[![Watch the video](./examples/center_2018_10_03_00_02_17_230.jpg)](http://youtu.be/https://youtu.be/TNRbon5s5NI)
+[![Watch the video](./examples/center_2018_10_03_00_02_17_230.jpg)](https://youtu.be/TNRbon5s5NI)
 ```
 
 ```
