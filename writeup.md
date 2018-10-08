@@ -135,5 +135,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ```
 
 ```
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/TNRbon5s5NI/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/TNRbon5s5NI/0.jpg)](http://www.youtube.com/watch?v=TNRbon5s5NI)
 ```
