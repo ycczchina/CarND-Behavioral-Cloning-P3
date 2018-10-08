@@ -128,7 +128,7 @@ I used this training data for training the model. The validation set helped dete
 
 And following is the generated video:
 
-[![Alt Text](./examples/center_2018_10_03_00_02_17_230.jpg)](./video.mp4)
+[![alt text][image2]](./video.mp4)
 
 
 
