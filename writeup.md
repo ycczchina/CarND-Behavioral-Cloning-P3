@@ -128,6 +128,10 @@ I used this training data for training the model. The validation set helped dete
 
 And following is the generated video:
 
+[![Alt Text](./examples/center_2018_10_03_00_02_17_230.jpg)](./video.mp4)
+
+
+
 <video width="320" height="240" controls>
   <source src="./video.mp4" type="video/mp4">
 </video>
