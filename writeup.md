@@ -128,4 +128,7 @@ I used this training data for training the model. The validation set helped dete
 
 And following is the generated video:
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/TNRbon5s5NI/0.jpg)](http://www.youtube.com/watch?v=TNRbon5s5NI)
+<video width="320" height="240" controls>
+  <source src="video.mp4" type="video/mp4">
+</video>
+
