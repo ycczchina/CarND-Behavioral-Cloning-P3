@@ -126,6 +126,6 @@ After the collection process, I had 10170 data points. I then preprocessed this 
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. I used an adam optimizer so that manually training the learning rate wasn't necessary.
 
-And following is the generated video:
+And following is the generated video(Click the image):
 
 [![alt text][image2]](https://www.youtube.com/watch?v=TNRbon5s5NI)
